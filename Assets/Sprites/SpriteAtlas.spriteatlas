@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 53
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8130477326818896572, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: 2213731607469278391, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: 6038198808069655847, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: -2850766614001518830, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: -1794387108394830128, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: -4817715348122862158, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: 6996617697064816894, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: -466168631853973879, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: -5365754987068647269, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: 8720775565077857502, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  - {fileID: 3143319658638795022, guid: 985b36bc592b41a49a1e34eaf3c76d87, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - peach
+  - square
+  - avocado
+  - kiwi
+  - checkmark
+  - banana
+  - fruits
+  - apple
+  - bg
+  - orange
+  - knife
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
